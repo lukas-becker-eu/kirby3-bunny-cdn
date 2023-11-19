@@ -1,0 +1,20 @@
+{
+    "name": "lukasbecker/kirby3-bunny-cdn",
+    "description": "",
+    "version": "1.0.0",
+    "license": "MIT",
+    "type": "kirby-plugin",
+    "authors": [
+        {
+            "name": "Lukas Becker",
+            "email": "lukas@lukas-becker.eu",
+            "homepage": "https://lukas-becker.eu"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
